@@ -1,7 +1,7 @@
 # PI_Redesocial_Generation
 
 
-# Integrantes Grupo 5 - GoodHands
+ Integrantes Grupo 5 - GoodHands
 
  Gustavo Santos
  João Kaique
