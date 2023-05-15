@@ -1,15 +1,16 @@
 # PI_Redesocial_Generation
 
 
-Integrantes Grupo 5 - GoodHands
+# Integrantes Grupo 5 - GoodHands
+
  Gustavo Santos
  João Kaique
  Pedro Campos
  Ramon Siqueira
  Roger Ramos
  Vinicius Almeida
- 
-Projeto Integrador do Grupo 05 desenvolvido no Bootcamp Generation.
+ -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Projeto Integrador do Grupo 05 desenvolvido no Bootcamp Generation.
 
 GoodHands  (Visite aqui)
 
